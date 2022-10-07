@@ -1,0 +1,2 @@
+idname = ""
+idpass = ""
